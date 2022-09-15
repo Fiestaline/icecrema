@@ -1,0 +1,29 @@
+body {
+    color: #000000;
+    background-color: #fff;
+    font-family: 'Roboto', sans-serif;
+}
+
+html {
+    box-sizing: border-box;
+}
+
+*,
+*::after,
+*::before {
+    box-sizing: inherit;
+}
+
+.link {
+    text-decoration: none;
+}
+
+a:hover {
+    color: #2196F3;
+}
+
+section {
+    display: block;
+}
+
+
